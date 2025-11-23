@@ -107,8 +107,34 @@ https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/Vietnam_2025-11-18_20_13
 https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/Vietnam_2025-11-18_20_13/vn_socialpost_1200x630_vn-03_hwqpui.jpg
 ```
 
+## SG_2025-11-23_11_35 (Singapore Images)
+
+```
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/animation1.svg
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/greenline.svg
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/greenline1.svg
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/group-162.svg
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/group33.svg
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/group41.svg
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/image2.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/image3.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/image4.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/last-frame@3x.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/rectangle1@2x.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/rectangle2@2x.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/rectangle@2x.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/screen1@3x.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/screen2@3x.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/screen3@3x.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/screen4bottomhalf@3x.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/screen4tophalf@3x.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/sg_sharedpost_1200x630-01.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/sg_sharedpost_1200x630-02.png
+https://cdn.jsdelivr.net/gh/Jack-1011/image-assets@main/SG_2025-11-23_11_35/sg_sharedpost_1200x630-03.png
+```
+
 ---
 
-**Total Images**: 78 files across 4 folders
+**Total Images**: 108 files across 5 folders
 **Repository**: https://github.com/Jack-1011/image-assets
 **All links are ready for immediate use via jsDelivr CDN**
